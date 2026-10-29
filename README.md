@@ -37,8 +37,8 @@ pip install --upgrade pip
 pip install -r requirements.txt
 
 # 3. Open and run the notebook in VS Code
-#    File: 00_run_all.ipynb
-#    The notebook runs each part sequentially with detailed output
+   File: 00_run_all.ipynb
+   The notebook runs each part sequentially with detailed output
 ```
 
 **Expected Output:**
