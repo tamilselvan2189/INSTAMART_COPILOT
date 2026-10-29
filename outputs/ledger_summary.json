@@ -1,0 +1,15 @@
+{
+  "total_entries": 1,
+  "entries_with_refund": 0,
+  "entries_with_escalation": 0,
+  "entries_denied": 0,
+  "entries_not_found": 0,
+  "entries_fallback": 0,
+  "total_refund_amount": 0.0,
+  "refund_ids": [],
+  "escalation_ids": [],
+  "scenarios_processed": [
+    "S7"
+  ],
+  "missing_fields": 0
+}

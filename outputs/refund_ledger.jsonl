@@ -1,0 +1,1 @@
+{"timestamp": "2026-10-29T11:16:27.505660", "run_id": "run_S7_1793023651", "scenario_id": "S7", "customer_id": null, "order_id": null, "status": "ERROR", "refund_amount_inr": 0.0, "refund_id": null, "escalation_id": null, "approval_level": "none", "tool_calls_count": 1, "tokens_used": 641, "iterations": 1, "duration_seconds": 0.02171921730041504}

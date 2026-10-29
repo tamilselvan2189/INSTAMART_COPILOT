@@ -1,0 +1,2 @@
+timestamp,run_id,scenario_id,customer_id,order_id,status,refund_amount_inr,refund_id,escalation_id,approval_level,tool_calls_count,tokens_used,iterations,duration_seconds
+2026-10-29T11:16:27.505660,run_S7_1793023651,S7,,,ERROR,0.0,,,none,1,641,1,0.02171921730041504

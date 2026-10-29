@@ -1,0 +1,57 @@
+# Environment
+.env
+.venv
+venv/
+ENV/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Database (exclude generated .db files, but data/instamart.db is committed)
+*.db
+!data/instamart.db
+
+# Generated raw data only (data/clean is committed)
+data/raw/
+
+# Working notes and metadata (not part of submission)
+CLAUDE_STEPWISE_IMPLEMENTATION.md
+NOTEBOOK_NAMING_UPDATE.md
+PART_A_ACCEPTANCE_CHECKLIST.md
+PART_B_ACCEPTANCE_CRITERIA.md
+PART_B_SUMMARY.md
+PART_C_SUMMARY.md
+
+# Notebook outputs (not part of submission)
+notebooks/outputs/
